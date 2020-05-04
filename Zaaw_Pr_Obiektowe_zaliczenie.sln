@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaaw_Pr_Obiektowe_zaliczenie", "Zaaw_Pr_Obiektowe_zaliczenie\Zaaw_Pr_Obiektowe_zaliczenie.csproj", "{4DC10C0C-0187-4BCD-B86D-24B1610E2FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC10C0C-0187-4BCD-B86D-24B1610E2FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC10C0C-0187-4BCD-B86D-24B1610E2FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC10C0C-0187-4BCD-B86D-24B1610E2FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC10C0C-0187-4BCD-B86D-24B1610E2FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDCEA5A-321F-477F-9201-DC34557DDA7E}
+	EndGlobalSection
+EndGlobal
